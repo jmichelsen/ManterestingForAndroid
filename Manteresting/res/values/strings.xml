@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * Copyright (C) 2013 Digipom Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+  -->
+<resources>
+
+    <string name="app_name">Manteresting</string>
+    <string name="app_version">0.1</string>    
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    
+    <string name="defaultNailImageContentDescription">nail item</string>
+    <string name="backgroundImageContentDescription">background image</string>
+    <string name="couldNotLoadImage">Unable to load image from server.</string>
+    <string name="couldNotLoadMoreItems">Unable to load more items from server.</string>
+    <string name="toast_sync_error">Could not sync with Manteresting server: %1$s</string>
+    <string name="connectingToServer">Please wait while we connect to the server…</string>
+    <string name="couldNotConnectToServer">Could not connect; please try again.</string>
+    <string name="retryConnect">Retry</string>
+    <string name="fetchNewNails">Fetch new nails</string>
+    
+    <string name="nailUserAndCategory"><b>%1$s</b> onto <b>%2$s</b></string>
+    
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    
+    <string name="share">Share</string>
+    <string name="shareSubject">Check this nail out, posted by %1$s to %2$s.</string>    
+    <string name="noShareApp">No sharing apps found!</string>
+    
+    <string name="up">Up to top</string>
+
+</resources>
